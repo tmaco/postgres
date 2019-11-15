@@ -1,6 +1,6 @@
 ##Si seleccionamos otra versión de Ubuntu, puede que ##tengamos que modificar el fichero para adaptarlo
 FROM ubuntu:14.04
-MAINTAINER Apasoft Training <aapasoft.training@gmail.com>
+MAINTAINER Gre2 <lolaso@gmail.com>
 ## Añadimos la clave PGP de PostgreSQL para verificación.
      ## Debería coincidir con
 ## https://www.postgresql.org/media/keys/ACCC4CF8.asc
